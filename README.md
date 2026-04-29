@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Venompratap/PagliMusicbot?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/Venompratap/PagliMusicbot?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/Venompratap/PagliMusicbot?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/Venompratap/PagliMusicbot?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/Venompratap/PagliMusic?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/Venompratap/PagliMusic?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/Venompratap/PagliMusic?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/Venompratap/PagliMusic?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -92,7 +92,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/venompratap/PagliMusicbot && cd PagliMusicbot
+   git clone https://github.com/venompratap/PagliMusic && cd PagliMusic
    ```
 6. **Install Requirements**
    ```bash
@@ -177,5 +177,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Venom Music Bot. Your feedback and support keep us going!
-- [Venom Music Bot](https://t.me/Venomumusicbot) and [Venom Music](https://github.com/Venompratap/PagliMusicbot) For their Source Codes.
+- [Venom Music Bot](https://t.me/Venomumusicbot) and [Venom Music](https://github.com/Venompratap/PagliMusic) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
